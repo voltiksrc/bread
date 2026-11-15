@@ -10,7 +10,7 @@ it's a small project I'm working on to learn more about X11, window management, 
 - click-to-focus
 - focused and unfocused window borders
 - basic window stacking
-- configurable border widths (currently hardcoded)
+- customizable border colors and widths (currently set in the source)
 
 ## Building
 
@@ -34,4 +34,4 @@ For now, it's mainly a learning project, so expect bugs and missing features.
 
 ## License
 
-Not specified yet.
+bread is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
